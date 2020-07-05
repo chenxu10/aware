@@ -33,8 +33,9 @@
   + 你的前期投入是什么？
 + 你的Niche Customer是那些人？
 
-## 现有的拳馆（友商）
+## 友商
 
++ [黄鸿玺——夜奔北京](https://www.youtube.com/watch?v=YN3JcSI3I7U)
 + [上海功夫中心](https://www.shanghaikungfucentre.com/)
 + [金星舞蹈团](<http://www.jinxing-dance-theatre.com/performances.html?lang=en>)
 + 高科
